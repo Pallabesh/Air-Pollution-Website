@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(242, 237, 244);
+}
+.navbar{
+    background-color: rgb(225, 184, 237);
+    padding: 7px;
+}
+i{
+    color: rgb(112, 36, 159);
+}
+i:hover{
+    font-weight: bold;
+}
+table,tr,td{
+    border: 1px solid black;
+    text-align: center;
+}

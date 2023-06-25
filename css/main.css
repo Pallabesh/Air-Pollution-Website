@@ -1,0 +1,93 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(242, 237, 244);
+    font-family: 'Josefin Sans', sans-serif;
+}
+.navbar{
+    background-color: rgb(225, 184, 237);
+    padding: 7px;
+    font-size: 17px;
+}
+.leftnav{
+    display: inline-block;
+    width: 29%;
+    margin-left: 20px;
+}
+.midnav{
+    display: inline-block;
+    width: 60%;
+}
+.rightnav{
+    display: inline-block;
+    width: 7%;
+    margin-right: 20px;
+}
+.leftnava{
+    text-decoration: none;
+    color: #000000;
+    padding: 18px;
+}
+.leftnava:hover{
+    background-color: rgb(218, 169, 232);
+}
+.midnavul{
+    list-style-type: none;
+    display: inline-flex;
+}
+.midnavli{
+    margin-left: 37px;
+    padding: 10px;
+}
+.midnava{
+    text-decoration: none;
+    color: #000000;
+    padding: 18px;
+    /* font-weight: bold; */
+}
+.midnava:hover{
+   /* font-weight: bold; */
+   background-color: rgb(218, 169, 232);
+}
+.rightnava{
+    color: #000000;
+    text-decoration: none;
+    padding: 18px;
+}
+.rightnava:hover{
+    background-color: rgb(218, 169, 232);
+}
+.wreport-table{
+    width: 80%;
+    font-size: 20px;
+    /* font-weight: bold; */
+    /* border: 1px solid black; */
+}
+.wreport-trow{
+    /* border: 1px solid black; */
+    padding: 8px;
+}
+.wreport-tcolumn1{
+    /* border: 1px solid black; */
+    padding: 8px;
+    width: 23%;
+    text-align: center;
+}
+.wreport-tcolumn2{
+    /* border: 1px solid black; */
+    padding: 8px;
+    height: 160px;
+    width: 20%;
+    text-align: center;
+    /* vertical-align: bottom; */
+}
+.wreport-tcolumn3{
+    padding: 8px;
+    height: 160px;
+    width: 20%;
+    text-align: center;
+}
