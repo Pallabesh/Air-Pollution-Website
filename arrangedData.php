@@ -116,35 +116,3 @@
     </script>
 </body>
 </html>
-
-
-<!-- Below is the code from ChatGPT -->
-<!-- 
-    <!DOCTYPE html>
-<html>
-<head>
-    <title>Data from MySQL</title>
-</head>
-<body>
-    <table>
-        <tr>
-            <th>ID</th>
-            <th>City</th>
-            <th>Pollution Level</th>
-        </tr>
-
-        <?php
-        // Database connection
-        $conn = mysqli_connect("localhost", "username", "password", "nit");
-
-        // Check connection
-        if (!$conn) {
-            die("Connection failed: " . mysqli_connect_error());
-        }
-
-        
-        ?>
-    </table>
-</body>
-</html>
- -->
