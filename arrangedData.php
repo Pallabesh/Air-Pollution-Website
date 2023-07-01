@@ -10,9 +10,12 @@
 </head>
 <body>
     <div class="navbar" style="height: 35px;">
-        <a href="main.php" title="Home Page">
-            <i class="fa fa-arrow-left" style="font-size:26px; padding: 3px;"></i>
-        </a>
+        <div class="nava">
+            <a href="main.php" title="Go Back">
+                <i class="fa fa-arrow-left" style="font-size:26px; padding: 3px;"></i>
+            </a>
+        </div>
+        <div class="navtxt">Data Updated on: 17th January 2022</div>
     </div>
     <div class="tcontent">
         <table>

@@ -16,8 +16,22 @@ i{
 }
 i:hover{
     font-weight: bold;
+    color: rgb(98, 28, 142);
 }
 table,tr,td{
     border: 1px solid black;
     text-align: center;
+}
+.nava{
+    display: inline-block;
+    width: 20%;
+}
+.navtxt{
+    text-align: right;
+    font-size: 15px;
+    color: rgb(98, 28, 142);
+    display: inline-block;
+    width: 79%;
+    font-weight: bold;
+    font-size: 18px;
 }
